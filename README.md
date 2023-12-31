@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hello.
+### I am a front-end engineer.
 
 <!--
 **Roen77/Roen77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://roen77.github.io/" target="_blank"><img src="https://img.shields.io/badge/FF8800?style=flat&logo=blogger&logoColor=000000"/>blog</a>
 
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/blog-FF8800?style=flat&logo=blogger&logoColor=000000"/></a>
+
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/blog-FF8800?style=flat&logo=bloglovin&logoColor=000000"/></a>
