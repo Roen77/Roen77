@@ -1,10 +1,20 @@
+
+
+![header](https://capsule-render.vercel.app/api?height=100&text=I'm%20Roen!&type=rect&color=FFCD00&fontSize=40)
+
 ### Hello 😄
  
  I am a front-end engineer.
+ 
+  Just do it.
 
- like - React, React Native 
+ 
+<a href="https://Roen77.github.io" target="_blank"><img src="https://img.shields.io/badge/blog-FF8800?style=flat&logo=bloglovin&logoColor=000000"/></a>
+<a href="mailto:gksthd12345@hanmail.net" target="_blank"><img src="https://img.shields.io/badge/gksthd12345@hanmail.net-4285F4?style=flat&logo=gmail&logoColor=000000"/></a>
 
- Just do it.
+
+
+
 
  
 
@@ -24,8 +34,6 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://Roen77.github.io" target="_blank"><img src="https://img.shields.io/badge/blog-FF8800?style=flat&logo=bloglovin&logoColor=000000"/></a>
-<a href="mailto:gksthd12345@hanmail.net" target="_blank"><img src="https://img.shields.io/badge/gksthd12345@hanmail.net-4285F4?style=flat&logo=gmail&logoColor=000000"/></a>
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roen77&hide=stars,issues,contribs&show_icons=true&include_all_commits=true&rank_icon=github)
