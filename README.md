@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 <a href="mailto:gksthd12345@hanmail.net" target="_blank"><img src="https://img.shields.io/badge/gksthd12345@hanmail.net-4285F4?style=flat&logo=gmail&logoColor=000000"/></a>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roen77&hide=stars,issues,contribs&show_icons=true&include_all_commits=true&rank_icon=github&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Roen77&hide=stars,issues,contribs&show_icons=true&include_all_commits=true&rank_icon=github)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Roen77&langs_count=10&a&layout=compact)
