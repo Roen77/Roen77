@@ -12,7 +12,7 @@
 <a href="https://Roen77.github.io" target="_blank"><img src="https://img.shields.io/badge/blog-FF8800?style=flat&logo=bloglovin&logoColor=000000"/></a>
 <a href="mailto:gksthd12345@hanmail.net" target="_blank"><img src="https://img.shields.io/badge/gksthd12345@hanmail.net-4285F4?style=flat&logo=gmail&logoColor=000000"/></a>
 
-### teck & like
+### teck
 <div style="display:flex;">
   <img src="https://img.shields.io/badge/Js-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ts-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -20,10 +20,11 @@
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Native-40AEF0?style=flat-square&logo=react&logoColor=white"/>
  <img src="https://img.shields.io/badge/Next-000?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
 </div>
 
 <br/>
+
+
 
  
 
