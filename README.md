@@ -16,17 +16,21 @@
 <div style="display:flex;">
   <img src="https://img.shields.io/badge/Js-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Ts-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
- <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
 <img src="https://img.shields.io/badge/React Native-40AEF0?style=flat-square&logo=react&logoColor=white"/>
- <img src="https://img.shields.io/badge/Next-000?style=flat-square&logo=next.js&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
 </div>
 
 <br/>
 
-
-
+## like
+<div style="display:flex;">
+ <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+ <img src="https://img.shields.io/badge/interactive web-E62431?style=flat-square&logo=webtrees&logoColor=white"/>
+</div>
  
+<br/>
 
 <!-- !!
 **Roen77/Roen77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
